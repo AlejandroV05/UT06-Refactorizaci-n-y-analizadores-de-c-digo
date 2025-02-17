@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\azaz0\\OneDrive\\Escritorio\\TareaRefactorizacion\\PatronesRefactorizaci\u00F3n\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A205D7-1DEC-42E9-A528-C730DC9352AA}|ExtraerInterfaz\\ExtraerInterfaz.csproj|c:\\users\\azaz0\\onedrive\\escritorio\\tarearefactorizacion\\patronesrefactorizaci\u00F3n\\extraerinterfaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A205D7-1DEC-42E9-A528-C730DC9352AA}|ExtraerInterfaz\\ExtraerInterfaz.csproj|solutionrelative:extraerinterfaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8455E354-8557-4EAA-B9BE-A8AAC4211FB3}|ReemplazarN\u00FAmeroM\u00E1gico ConConstanteSimb\u00F3lica\\ReemplazarN\u00FAmeroM\u00E1gico ConConstanteSimb\u00F3lica.csproj|c:\\users\\azaz0\\onedrive\\escritorio\\tarearefactorizacion\\patronesrefactorizaci\u00F3n\\reemplazarn\u00FAmerom\u00E1gico conconstantesimb\u00F3lica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8455E354-8557-4EAA-B9BE-A8AAC4211FB3}|ReemplazarN\u00FAmeroM\u00E1gico ConConstanteSimb\u00F3lica\\ReemplazarN\u00FAmeroM\u00E1gico ConConstanteSimb\u00F3lica.csproj|solutionrelative:reemplazarn\u00FAmerom\u00E1gico conconstantesimb\u00F3lica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCDCE30-9C74-4CC7-9C3E-2D247A489B3C}|Renombrar\\Renombrar.csproj|c:\\users\\azaz0\\onedrive\\escritorio\\tarearefactorizacion\\patronesrefactorizaci\u00F3n\\renombrar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCDCE30-9C74-4CC7-9C3E-2D247A489B3C}|Renombrar\\Renombrar.csproj|solutionrelative:renombrar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\azaz0\\OneDrive\\Escritorio\\TareaRefactorizacion\\PatronesRefactorizaci\u00F3n\\ExtraerInterfaz\\Program.cs",
+              "RelativeDocumentMoniker": "ExtraerInterfaz\\Program.cs",
+              "ToolTip": "C:\\Users\\azaz0\\OneDrive\\Escritorio\\TareaRefactorizacion\\PatronesRefactorizaci\u00F3n\\ExtraerInterfaz\\Program.cs",
+              "RelativeToolTip": "ExtraerInterfaz\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T21:46:35.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\azaz0\\OneDrive\\Escritorio\\TareaRefactorizacion\\PatronesRefactorizaci\u00F3n\\ReemplazarN\u00FAmeroM\u00E1gico ConConstanteSimb\u00F3lica\\Program.cs",
+              "RelativeDocumentMoniker": "ReemplazarN\u00FAmeroM\u00E1gico ConConstanteSimb\u00F3lica\\Program.cs",
+              "ToolTip": "C:\\Users\\azaz0\\OneDrive\\Escritorio\\TareaRefactorizacion\\PatronesRefactorizaci\u00F3n\\ReemplazarN\u00FAmeroM\u00E1gico ConConstanteSimb\u00F3lica\\Program.cs",
+              "RelativeToolTip": "ReemplazarN\u00FAmeroM\u00E1gico ConConstanteSimb\u00F3lica\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T21:36:01.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\azaz0\\OneDrive\\Escritorio\\TareaRefactorizacion\\PatronesRefactorizaci\u00F3n\\Renombrar\\Program.cs",
+              "RelativeDocumentMoniker": "Renombrar\\Program.cs",
+              "ToolTip": "C:\\Users\\azaz0\\OneDrive\\Escritorio\\TareaRefactorizacion\\PatronesRefactorizaci\u00F3n\\Renombrar\\Program.cs",
+              "RelativeToolTip": "Renombrar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:03:53.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

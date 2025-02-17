@@ -1,0 +1,4 @@
+C:\Users\azaz0\OneDrive\Escritorio\TareaRefactorizacion\PatronesRefactorización\Renombrar\obj\Debug\net8.0\Renombrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azaz0\OneDrive\Escritorio\TareaRefactorizacion\PatronesRefactorización\Renombrar\obj\Debug\net8.0\Renombrar.AssemblyInfoInputs.cache
+C:\Users\azaz0\OneDrive\Escritorio\TareaRefactorizacion\PatronesRefactorización\Renombrar\obj\Debug\net8.0\Renombrar.AssemblyInfo.cs
+C:\Users\azaz0\OneDrive\Escritorio\TareaRefactorizacion\PatronesRefactorización\Renombrar\obj\Debug\net8.0\Renombrar.csproj.CoreCompileInputs.cache
