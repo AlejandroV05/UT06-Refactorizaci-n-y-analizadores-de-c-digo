@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ConsoleApp1</name>
+    </assembly>
+    <members>
+        <member name="T:ConsoleApp1.Program.Point">
+            <summary>
+            Representa un punto en el espacio.
+            </summary>
+        </member>
+        <member name="P:ConsoleApp1.Program.Point.X">
+            <value>Propiedad de X correspondiente a la coordenada X </value>
+        </member>
+        <member name="P:ConsoleApp1.Program.Point.Y">
+            <value>Propiedad de Y correspondiente a la coordenada Y </value>
+        </member>
+        <member name="M:ConsoleApp1.Program.Point.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Constructor de la clase <c>Point</c> que inicializa un nuevo punto a (<param name="x"></param>,<param name="y"></param>)
+            </summary>
+            <param name="x">Correspondiente a la coordenada X del punto</param>
+            <param name="y">Correspondiente a la coordenada Y del punto</param>
+        </member>
+        <member name="M:ConsoleApp1.Program.Point.Coordenadas">
+            <summary>
+            <example> Por ejemplo:
+            <code>
+            Point m = new Point(2.4);
+            m.Coordenadas();
+            </code>
+            </example>
+            </summary>
+            <returns>Regresa una cadena con las coordenadas del punto</returns>
+        </member>
+        <member name="M:ConsoleApp1.Program.Point.CoordenadasComplejas">
+            <summary>
+            Obtiene las coordenadas del punto
+            </summary>
+            <returns>Una cadena con las coordenadas del punto</returns>
+            <see cref="M:ConsoleApp1.Program.Point.Coordenadas"/>
+        </member>
+    </members>
+</doc>
