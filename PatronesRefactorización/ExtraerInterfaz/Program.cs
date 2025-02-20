@@ -7,64 +7,28 @@
         //estandarizar la funcionalidad de varias clases 
         //con métodos similares
 
-        //Código antiguo
-        /**public double CalcularArea(double radio)
-            {
-                return Math.PI * radio * radio;
-            }
-        }
-
-        public class Rectangulo
-        {
-            public double CalcularArea(double baseRect, double altura)
-            {
-                return baseRect * altura;
-         }
-         * 
-         */
-
         //Código nuevo
-        /*
-         * public interface IFigura
+        class Función() : IFunción
         {
-            double CalcularArea();
-        }
-
-        public class Circulo : IFigura
-        {
-            private double radio;
-
-            public Circulo(double radio)
+            public void A()
             {
-                this.radio = radio;
+
             }
-
-            public double CalcularArea()
+            public void B(int value)
             {
-                return Math.PI * radio * radio;
+
+            }
+            public int C()
+            {
+                return 0;
             }
         }
-
-        public class Rectangulo : IFigura
+        interface IFunción
         {
-            private double baseRect;
-            private double altura;
-
-            public Rectangulo(double baseRect, double altura)
-            {
-                this.baseRect = baseRect;
-                this.altura = altura;
-            }
-
-            public double CalcularArea()
-            {
-                return baseRect * altura;
-            }
+            void A();   
+            void B(int value);
+            int C();
         }
-
-         */
-
-
 
     }
 }

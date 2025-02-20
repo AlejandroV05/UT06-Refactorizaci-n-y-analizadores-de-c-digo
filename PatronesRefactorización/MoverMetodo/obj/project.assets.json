@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\azaz0\\OneDrive\\Escritorio\\TareaRefactorizacion\\PatronesRefactorización\\MoverMetodo\\MoverMetodo.csproj",
-      "projectName": "MoverMetodo",
-      "projectPath": "C:\\Users\\azaz0\\OneDrive\\Escritorio\\TareaRefactorizacion\\PatronesRefactorización\\MoverMetodo\\MoverMetodo.csproj",
+      "projectUniqueName": "C:\\Users\\azaz0\\OneDrive\\Escritorio\\TareaRefactorizacion\\PatronesRefactorización\\MoverMetodo\\MoverMétodo.csproj",
+      "projectName": "MoverMétodo",
+      "projectPath": "C:\\Users\\azaz0\\OneDrive\\Escritorio\\TareaRefactorizacion\\PatronesRefactorización\\MoverMetodo\\MoverMétodo.csproj",
       "packagesPath": "C:\\Users\\azaz0\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\azaz0\\OneDrive\\Escritorio\\TareaRefactorizacion\\PatronesRefactorización\\MoverMetodo\\obj\\",
       "projectStyle": "PackageReference",

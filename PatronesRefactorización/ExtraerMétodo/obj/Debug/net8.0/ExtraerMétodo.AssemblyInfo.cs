@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExtraerMétodo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e72865e22cc3317332854111aa1175e6ca1e201f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExtraerMétodo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExtraerMétodo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

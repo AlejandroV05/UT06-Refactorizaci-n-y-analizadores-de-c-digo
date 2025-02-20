@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReemplazarCondicionalConPolimorfismo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e72865e22cc3317332854111aa1175e6ca1e201f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReemplazarCondicionalConPolimorfismo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReemplazarCondicionalConPolimorfismo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

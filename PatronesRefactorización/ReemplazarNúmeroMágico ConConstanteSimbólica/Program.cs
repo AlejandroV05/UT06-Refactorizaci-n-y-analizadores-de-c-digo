@@ -20,11 +20,15 @@
 
         //Código nuevo
         //Se da a la constante mejor definición
-       /** public class Constante
+        public class Constante
         {
             private const double R = 8.314;
-            return 1*10/(2*r*700);
+
+            public double Calcular()
+            {
+                return 1 * 10 / (2 * R * 700);
+            }
         }
-       */
+
     }
 }
